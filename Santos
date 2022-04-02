@@ -381,6 +381,8 @@ https://bus-eu-west-1-cimzmgnuu-cdn.sa.metacdn.com/live/ngrp:lxp480_main_all_tra
 
 
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Tooncast.png/revision/latest/scale-to-width-down/250?cb=20161207193118" group-title="Kids",  Tooncast
+https://edge4-sl.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast-avc1_1532000=10004.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdVOawreia0dHBrs1aSt-EQN7Hg8wivdtSbQ&usqp=CAU" group-title="Kids",  Gospel Cartoon
