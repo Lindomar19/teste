@@ -129,16 +129,16 @@ https://s13.maxcast.com.br:8038/live?id=1645142478488
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logotipo_da_Record_News_SC.png" group-title="Noticias", Record News SC
 https://rr1---sn-bboxu-m52s.googlevideo.com/videoplayback?expire=1648788089&ei=GS5GYtyWKYvMwwS4tb6YCw&ip=177.36.176.21&id=z6CV_3r0Kt4.1&itag=244&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=4x&mm=44%2C29&mn=sn-bboxu-m52s%2Csn-bg0eznlz&ms=lva%2Crdu&mv=m&mvi=1&pl=24&initcwndbps=1345000&spc=4ocVC5vOMa6B6UZ9mfqwPQqZbolD&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=FBkcVEeC0pB3-tBJc0d9z4wG&gir=yes&mt=1648766196&fvip=1&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=wLjKGABYqN6Blg&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgMOfwGfkQOnTbIC7rX7-XYANE4j_33K2DnFwHXjIJ6AUCIB4GRxRlFqT8hz1kflvnSm0PVtw70j2rgXxXlDAl00GP&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAO19biGNvjErB6VO_jqfyVQx0QPC4EDkwP4BMuBDI5AbAiBv2HY-qIWOJzPJPVbkz2yh81eRJU2zWBUjHy_wWKFJQw%3D%3D&alr=yes&cpn=MV9yAsfQoAE4aq1y&cver=1.20220329.01.00&sq=7979&pot=GpsBCm6YH7kofyuJlA3tjhK748dAoH0m6NwX8R6SKvom-jECExdMsaUz0I3qSxzSS85kzrCRL4hGSl98qEbw8TaeSy_yGhTL8kIIBVHgRgZnsIJH0MR7m5Nmiy2EkQQ7ozAP4TU5KzlEq8sgjhCoqstsqhIpATwYQQ4QM6AclYJM-fTzrcl1HieDC9Yz0NpHSa9x1KgbL1AnIUSK974=
 
-#EXTINF:-1 tvg-logo="https://i.giphy.com/media/82LDkXAB18QZRQQveL/giphy.webp" group-title="Noticias",  Jovem Pan News
+#EXTINF:-1 tvg-logo="https://i.giphy.com/media/82LDkXAB18QZRQQveL/giphy.webp" group-title="Noticias",  JP News HD
 http://168.205.87.198:8555/live/anselmo/123456/161.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Noticias", RECORD TV
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Noticias", Record tv
 http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-b.m3u8?IMDSFULL
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4dJJMht/NDtv-HD-Record.png" group-title="Noticias", ND TV
 https://caikron.com.br:19360/floripa/floripa.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.gruposcc.com.br/novosite/wp-content/uploads/2021/04/SCC_2020-01-01.png" group-title="Noticias", SCC SBT
+#EXTINF:-1 tvg-logo="https://www.gruposcc.com.br/novosite/wp-content/uploads/2021/04/SCC_2020-01-01.png" group-title="Noticias", SBT
 https://youtu.be/eEABVxOoppM
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/216f05_846a9a6286a14c3faed5a68556b12ca0~mv2.png/v1/fill/w_288,h_216,al_c,usm_0.66_1.00_0.01,enc_auto/br-tv-aratu-removebg-preview.png" group-title="Noticias", Tv Aratu
@@ -160,7 +160,7 @@ https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gjZqYdP/Family-CBN.png " group-title="Gospel Tv", Family cbn
 https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/us-east-1/734546207001/profile_0/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C998szp/CBN-espanhol.png " group-title="Gospel Tv", Espannhol cbn
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C998szp/CBN-espanhol.png " group-title="Gospel Tv", Espanhol cbn
 http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/index_2000_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lrfm7dT/Good-Life-45.png " group-title="Gospel Tv", Good life 45
