@@ -1,196 +1,427 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mbFN6QF/R-dio-Studio-Souto-Gospel.png" group-title="Gospel","Music", Radio Souto Gospel
+
+
+############# Gospel Radio ###########
+ 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mbFN6QF/R-dio-Studio-Souto-Gospel.png" group-title="Gospel Radio", Radio Souto Gospel
 https://centova5.transmissaodigital.com:20028/stream
 
-
-
-.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d6t9hwh/Gospel-mix-R-dio-web.png" group-title="Gospel", GospelMix SP
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d6t9hwh/Gospel-mix-R-dio-web.png" group-title="Gospel Radio", GospelMix SP
 https://servidor30-2.brlogic.com:8252/live?source=website
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xLkQDS9/The-love-r-dio-fm.png" group-title="Gospel", The Love Radio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xLkQDS9/The-love-r-dio-fm.png" group-title="Gospel Radio", The Love Radio
 
 http://node-25.zeno.fm/7h57ce07ec9uv?rj-ttl=5&rj-tok=AAABfwmRW34AQcCPBk2DGXSz0w
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yNZ7Cxm/R-dio-Life-fm.png" group-title="Gospel", Life FM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yNZ7Cxm/R-dio-Life-fm.png" group-title="Gospel Radio", Life FM
 https://prod-54-221-49-249.wostreaming.net/espn-kspn-cloud.m3u8/?source=espnradio%5C&z=d90aece18097489b97015283ff1f8b91&p=2
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7kj08bw/CHRISTIAN-r-dio.png" group-title="Gospel", Christian FM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7kj08bw/CHRISTIAN-r-dio.png" group-title="Gospel Radio", Christian FM
 https://christianfm.streamguys1.com/live-aac
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8gp6Wv6/Praise-radio.png" group-title="Gospel", Prise - CBN  Radio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8gp6Wv6/Praise-radio.png" group-title="Gospel Radio", Prise - CBN  Radio
 https://bcovlive-a.akamaihd.net/r06d4bc2c9cc0474cb294bad887ddc648/us-east-1/us-east-1/734546207001/profile_1/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zRFtZ0J/Contemporary-cbn-R-dio.png" group-title="Gospel", Conteporary - CBN Radio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zRFtZ0J/Contemporary-cbn-R-dio.png" group-title="Gospel Radio", Conteporary - CBN Radio
 https://bcovlive-a.akamaihd.net/r9cd0b58348ef467592ddd361e0b15a1a/us-east-1/us-east-1/734546207001/profile_0/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.cbneurope.com/wp-content/uploads/02-SuperbookLogo_CMYK.png" group-title="Gospel", SuperBook - CBN Radio
+#EXTINF:-1 tvg-logo="https://www.cbneurope.com/wp-content/uploads/02-SuperbookLogo_CMYK.png" group-title="Gospel Radio", SuperBook - CBN Radio
 https://bcovlive-a.akamaihd.net/rfd16f66aae1a4e7fb02c8e16dca9285f/us-east-1/us-east-1/734546207001/profile_0/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jgPvspv/Selah-cbn-radio.png" group-title="Gospel", Selah - CBN Radio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jgPvspv/Selah-cbn-radio.png" group-title="Gospel Radio", Selah - CBN Radio
 https://bcovlive-a.akamaihd.net/ra21608ccdd1546d19c3d9ce03a2d5457/us-east-1/us-east-1/734546207001/profile_0/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XDwTbZj/Country-cbn-r-dio.png" group-title="Gospel", Cross Country - CBN Radio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XDwTbZj/Country-cbn-r-dio.png" group-title="Gospel Radio", Cross Country - CBN Radio
 https://bcovlive-a.akamaihd.net/r92204313e895462fb4a75411d8bbc58a/us-east-1/us-east-1/734546207001/profile_0/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://marvel-b1-cdn.bc0a.com/f00000000039764/www1.cbn.com/sites/all/themes/cbn_default/images/radio/header/gospel/logo-subsection.png" group-title="Gospel", Gospel - CBN Radio
+#EXTINF:-1 tvg-logo="https://marvel-b1-cdn.bc0a.com/f00000000039764/www1.cbn.com/sites/all/themes/cbn_default/images/radio/header/gospel/logo-subsection.png" group-title="Gospel Radio", Gospel - CBN Radio
 https://streams.cbnradio.com/gospel-128K?app=cbnplayer
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8DnBf9F/Southern-Gospel.png" group-title="Gospel", Southern Gospel - CBN Radio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8DnBf9F/Southern-Gospel.png" group-title="Gospel Radio", Southern Gospel - CBN Radio
 
 https://streams.cbnradio.com/southern-gospel-128K?app=cbnplayer
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nCf8VGN/CLASSIC-r-dio-gospel.png" group-title="Gospel", Classic Christian - CBN Radio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nCf8VGN/CLASSIC-r-dio-gospel.png" group-title="Gospel Radio", Classic Christian - CBN Radio
 
 https://streams.cbnradio.com/Classic-Christian-128K?app=cbnplayer
 
 
-#EXTINF:-1 tvg-logo="https://marvel-b1-cdn.bc0a.com/f00000000039764/www1.cbn.com/sites/all/themes/cbn_default/images/radio/header/fiestahoy/logo-subsection.png" group-title="Gospel", Fiesta Hoy - CBN Radio
+#EXTINF:-1 tvg-logo="https://marvel-b1-cdn.bc0a.com/f00000000039764/www1.cbn.com/sites/all/themes/cbn_default/images/radio/header/fiestahoy/logo-subsection.png" group-title="Gospel Radio", Fiesta Hoy - CBN Radio
 https://streams.cbnradio.com/fiesta-hoy-128K?app=cbnplayer
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ggkgxx0/R-dio-Christmas-cbn.png " group-title="Gospel", Christmas - CBN Radio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ggkgxx0/R-dio-Christmas-cbn.png " group-title="Gospel Radio", Christmas - CBN Radio
 https://bcovlive-a.akamaihd.net/r63a02ccfc89043a2825801ce7c116146/us-east-1/us-east-1/734546207001/profile_0/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/862dZtp/Logopit-1645410375749.png" group-title="Gospel", African Praise Radio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/862dZtp/Logopit-1645410375749.png" group-title="Gospel Radio", African Praise Radio
 
 https://usa3.fastcast4u.com/proxy/africanpraiserad?mp=/1
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61JDJwKatDL.png" group-title="Gospel", The Joy Fm
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61JDJwKatDL.png" group-title="Gospel Radio", The Joy Fm
 https://rtn.cdnstream1.com/2576_96.aac
 
 
-#EXTINF:-1 tvg-logo="https://mybridgeradio.net/wp-content/uploads/2016/07/cropped-MBIcon.png" group-title="Gospel", My Bridge Radio
+#EXTINF:-1 tvg-logo="https://mybridgeradio.net/wp-content/uploads/2016/07/cropped-MBIcon.png" group-title="Gospel Radio", My Bridge Radio
 
 http://ais-sa1.streamon.fm/7069_64k.aac
 
 
-#EXTINF:-1 tvg-logo="https://gospelfm89.com.br/wp-content/themes/gospelfm/images/logo.png" group-title="Gospel", Radio Gospel Fm 
+#EXTINF:-1 tvg-logo="https://gospelfm89.com.br/wp-content/themes/gospelfm/images/logo.png" group-title="Gospel Radio", Radio Gospel Fm 
 http://148.72.158.239:8161/live
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0nn8fdQ/Logopit-1645405153746.png" group-title="Gospel", Radio Spirit FM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0nn8fdQ/Logopit-1645405153746.png" group-title="Gospel Radio", Radio Spirit FM
 https://positivealtradio.streamguys1.com/wrxtmp3
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PCtCPmp/Praise-r-dio.png" group-title="Gospel", PRISE Broadcast Network
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PCtCPmp/Praise-r-dio.png" group-title="Gospel Radio", PRISE Broadcast Network
 http://www.ophanim.net:9780/;stream.nsv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WK9GNrq/Logopit-1645411255895.png" group-title="Gospel", SHINE FM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WK9GNrq/Logopit-1645411255895.png" group-title="Gospel Radio", SHINE FM
 https://thegospelstation.streamguys1.com/live
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Fh3xhZ0/Logopit-1645411547527.png" group-title="Gospel", Radio Gospel Sertanejo
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fh3xhZ0/Logopit-1645411547527.png" group-title="Gospel Radio", Radio Gospel Sertanejo
 https://ssl.xcast.com.br:11354/stream
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MpF3jhP/Logopit-1645411794740.png" group-title="Gospel", Rádio Texas Country Gospel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MpF3jhP/Logopit-1645411794740.png" group-title="Gospel Radio", Rádio Texas Country Gospel
 http://thegospelstation.streamguys1.com/live
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Sky_Radio.png" group-title="Gospel", Sky Gospel Radio
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Sky_Radio.png" group-title="Gospel Radio", Sky Gospel Radio
 https://player.voxpainel.com.br/proxy/10968
 
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r6Yj9ry/Logopit-1645413058212.png" group-title="Gospel", Quadrangular Sergipe
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r6Yj9ry/Logopit-1645413058212.png" group-title="Gospel Radio", Quadrangular Sergipe
 http://108.163.250.202:9850/;stream/1
 
 
-#EXTINF:-1 tvg-logo="https://ieqmorrinhos.files.wordpress.com/2014/06/sdasd.png" group-title="Gospel", Igreja do Evangelho Quadrangular
+#EXTINF:-1 tvg-logo="https://ieqmorrinhos.files.wordpress.com/2014/06/sdasd.png" group-title="Gospel Radio", Igreja do Evangelho Quadrangular
 
 https://rr2---sn-bboxu-m52l.googlevideo.com/videoplayback?expire=1645311484&ei=nCERYrfVONPD8wKtooWAAg&ip=177.36.177.215&id=o-ADZ4A1BLVwg1dc8tb3rDXzxYwLJbqslF-BcfJcVZ9PpP&itag=251&source=youtube&requiressl=yes&mh=RJ&mm=31%2C29&mn=sn-bboxu-m52l%2Csn-bg0eznls&ms=au%2Crdu&mv=m&mvi=2&pcm2cms=yes&pl=24&initcwndbps=1571250&vprv=1&mime=audio%2Fwebm&ns=rY0ZzwDztagA7gx3sXUq2WEG&gir=yes&clen=67855421&otfp=1&dur=5072.001&lmt=1613176583063761&mt=1645289590&fvip=2&keepalive=yes&fexp=24001373%2C24007246&beids=23886201&c=WEB_EMBEDDED_PLAYER&txp=7211222&n=2xDOjF_pDFO-6A&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cotfp%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAKjFT8I5aDeFTY_z1mfMcGMq_Te7pMhKvgrQp_KvO3KzAiAxECc1vNbXYj5EvavHQNFeBd3rXWjyj77JhNHS7B6rhg%3D%3D&alr=yes&sig=AOq0QJ8wRAIgWL0-FwJPFxzwO4fle72nnBD7VIX5ZgXVkvdFhaWLnCACIHUaF3J8rqyx7jw6Yj1gldpaVkf7KXII4JNaO4_KJgyz&cpn=iJyDFg3wa_N1Ti7A&cver=1.20220216.01.00&bbs=e-QpgYGLvZ_fYj-mgxM4NXdNAFByskgDmk7xovJ8m4wQxkX-1TuK6wKCES0TFa0hvGAMG2KCRX7iZtvhZfepXOsFDjP-r0OxVgJsNytYnYW9jawNPoyuyx-E0Fs1_wQVunPQ9PZkTG0P6RgffFukg5RW7NUeROosY-5FPFfXzCYSjzXYJwHklmSsDGdq0S--d7JpIklr
 
 
 
-#EXTINF:-1 tvg-logo="https://www.portalbr4.com.br/Content/images/LogoBR4_novo.png" group-title="Gospel", Radio online BR4 Quadrangular
+#EXTINF:-1 tvg-logo="https://www.portalbr4.com.br/Content/images/LogoBR4_novo.png" group-title="Gospel Radio", Radio online BR4 Quadrangular
 
 https://s13.maxcast.com.br:8038/live?id=1645142478488
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VJXGfLM/R-dio-amigos-da-m-sica-gospelm.png" group-title="Gospel", Amigos da Musica Gospel
 
-https://youtube.com/playlist?list=PLuwNQM7VII9WfXAA6f3otcQeaJqmne9WO
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vmWvYk1/Logopit-1645438380543.png" group-title="Gospel", 2 I E Q Castro Tv
-https://livefocamundo.com:8081/2ieqcastrotv/tracks-v1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WxJskG7/Logopit-1645438813366.png" group-title="Gospel", Gospel Music Television
+
+####$$########Noticias###############
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logotipo_da_Record_News_SC.png" group-title="Noticias", Record News SC
+https://rr1---sn-bboxu-m52s.googlevideo.com/videoplayback?expire=1648788089&ei=GS5GYtyWKYvMwwS4tb6YCw&ip=177.36.176.21&id=z6CV_3r0Kt4.1&itag=244&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=4x&mm=44%2C29&mn=sn-bboxu-m52s%2Csn-bg0eznlz&ms=lva%2Crdu&mv=m&mvi=1&pl=24&initcwndbps=1345000&spc=4ocVC5vOMa6B6UZ9mfqwPQqZbolD&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=FBkcVEeC0pB3-tBJc0d9z4wG&gir=yes&mt=1648766196&fvip=1&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=wLjKGABYqN6Blg&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgMOfwGfkQOnTbIC7rX7-XYANE4j_33K2DnFwHXjIJ6AUCIB4GRxRlFqT8hz1kflvnSm0PVtw70j2rgXxXlDAl00GP&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAO19biGNvjErB6VO_jqfyVQx0QPC4EDkwP4BMuBDI5AbAiBv2HY-qIWOJzPJPVbkz2yh81eRJU2zWBUjHy_wWKFJQw%3D%3D&alr=yes&cpn=MV9yAsfQoAE4aq1y&cver=1.20220329.01.00&sq=7979&pot=GpsBCm6YH7kofyuJlA3tjhK748dAoH0m6NwX8R6SKvom-jECExdMsaUz0I3qSxzSS85kzrCRL4hGSl98qEbw8TaeSy_yGhTL8kIIBVHgRgZnsIJH0MR7m5Nmiy2EkQQ7ozAP4TU5KzlEq8sgjhCoqstsqhIpATwYQQ4QM6AclYJM-fTzrcl1HieDC9Yz0NpHSa9x1KgbL1AnIUSK974=
+
+#EXTINF:-1 tvg-logo="https://i.giphy.com/media/82LDkXAB18QZRQQveL/giphy.webp" group-title="Noticias",  Jovem Pan News
+http://168.205.87.198:8555/live/anselmo/123456/161.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Noticias", RECORD TV
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-b.m3u8?IMDSFULL
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4dJJMht/NDtv-HD-Record.png" group-title="Noticias", ND TV
+https://caikron.com.br:19360/floripa/floripa.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.gruposcc.com.br/novosite/wp-content/uploads/2021/04/SCC_2020-01-01.png" group-title="Noticias", SCC SBT
+https://youtu.be/eEABVxOoppM
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/216f05_846a9a6286a14c3faed5a68556b12ca0~mv2.png/v1/fill/w_288,h_216,al_c,usm_0.66_1.00_0.01,enc_auto/br-tv-aratu-removebg-preview.png" group-title="Noticias", Tv Aratu
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8
+
+
+
+
+
+
+
+############gospel Tv##############
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gjZqYdP/Family-CBN.png " group-title="Gospel Tv", Family cbn
+https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/us-east-1/734546207001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C998szp/CBN-espanhol.png " group-title="Gospel Tv", Espannhol cbn
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/index_2000_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lrfm7dT/Good-Life-45.png " group-title="Gospel Tv", Good life 45
+https://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/bc2256_9cdc549878d3443db367e307f404d152~mv2.png/v1/fill/w_110,h_110,al_c,usm_0.66_1.00_0.01,enc_auto/ieq2_p.png" group-title="Gospel Tv", 2 I E Q Castro Tv
+https://livefocamundo.com:8081/2ieqcastrotv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/ABN_Colombia_2001.png/revision/latest?cb=20170730015021" group-title="Gospel Tv", ABN Avivamiento Televisión
+https://s1.abntelevision.com/avivamientohd/avivamientohd/chunks.m3u8?nimblesessionid=26869076
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/28DdNtw/Fam-lia-channel.png" group-title="Gospel Tv", Famili channel
+https://tv.caucaserver.com:3422/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WxJskG7/Logopit-1645438813366.png" group-title="Gospel Tv", Gospel Music Television
 https://stmv1.srvif.com/gmusic/gmusic/chunklist_w718830664.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wJ93qd8/Logopit-1645439121264.png" group-title="Gospel", Web TV Fonte Viva Gospel 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wJ93qd8/Logopit-1645439121264.png" group-title="Gospel Tv", Web TV Fonte Viva Gospel 
 https://stmv1.livevoxtv.com.br/webtvfontevivagospel/webtvfontevivagospel/chunklist_w1830366311.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bQYK47Q/Teve-gospel-hd.png" group-title="Gospel", Super TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bQYK47Q/Teve-gospel-hd.png" group-title="Gospel Tv", Super TV HD
 https://ydhcoch1rw.zoeweb.tv/zw9009/stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2a58d463781649692e75a8f13b05c64d.webp" group-title="Gospel",  Kuriakos Music tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZYYmqhf/Kuriakos-tv.png" group-title="Gospel Tv", Kuriakos tv
+http://195.22.11.11:1935/ktv/ktv1/chunklist_w36279574.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2a58d463781649692e75a8f13b05c64d.webp" group-title="Gospel Tv",  Kuriakos Music tv
 http://c2.manasat.com:1935/kmusic/kmusic3/chunklist_w740626733.m3u8
 
-#EXTINF:-1 tvg-logo="https://vhx.imgix.net/hillsongchannel/assets/f4259d7c-42af-4512-a639-d989ac8fdc91.png?fit=max&h=84&q=92&w=400" group-title="Gospel",  Hillsong Channel HD
-https://playback.akamaized.net/streams/27418185_10063683_lsi71ty4pcft2ekyo1w_1/media/27418185_10063683_lsi71ty4pcft2ekyo1w_1@2756000pb.m3u8?dw=80&ts=1647313200&hdnts=exp=1647489268~acl=/streams/27418185_10063683_lsi71ty4pcft2ekyo1w_1/media*~hmac=28b54cc359fd882ef8711ea3f7adae2ac8fc8d06adee9ae386af63b2b756b7f3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vqzZyQD/Logopit-1645439867671.png" group-title="Gospel",  WAYTV
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ggb4MZC/Tv-Esperan-a.png" group-title="Gospel Tv",  Esperança tv
+https://stmv1.voxtvhd.com.br/radioesperanca/radioesperanca/chunklist_w475894890.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vqzZyQD/Logopit-1645439867671.png" group-title="Gospel Tv",  WAYTV
 https://livestreamcdn.net:444/SobrenaturalTV/SobrenaturalTV/chunklist_w2059616021.m3u8
 
-#EXTINF:-1 tvg-logo="https://topmixtv.com.br/wp-content/uploads/2016/09/logo.png" group-title="Gospel",  TopMix Tv HD
+#EXTINF:-1 tvg-logo="https://topmixtv.com.br/wp-content/uploads/2016/09/logo.png" group-title="Gospel Tv",  TopMix Tv HD
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w1466580574.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/khKkkCz/Logopit-1645440346272.png" group-title="Gospel",  TvGospel Louvores
+#EXTINF:-1 tvg-logo="https://i.ibb.co/khKkkCz/Logopit-1645440346272.png" group-title="Gospel Tv",  TvGospel Louvores
 https://srv4.zcast.com.br/tvgospel/tvgospel/chunklist_w1650392963.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/28b055714d92d9a071941311c5443a96.webp" group-title="Gospel",  Vc Tv online HD
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/28b055714d92d9a071941311c5443a96.webp" group-title="Gospel Tv",  Vc Tv online HD
 https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2062082466.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://emmanuel.tv/wp-content/uploads/2020/03/bgLogoV3.png" group-title="Gospel",  Emmanoel TV
-https://hls-live-web-media.cdn01.net/default/stream_39565_1.m3u8?bslMMpu_xyqcHScjvJH4MXT9ZKYFLxhKZE7XM_C-Lsf_5mGNrfrkxr1Gmeap6Y5D8oe49nKK4O2K0jMd6wHNRzyS0hYKTDp_69z6_b8pYg_HrtHVEZrYT5lo2p65Ifsgd8YDAPSNAyFiGCFlR2dns-XQW946dk_GxOlAy3MI&channel_id=39565&source=Android&old_source=othermobile&device_id=8933353713-34abd9082e5e27a3d64ac55824ebeacf&lcp=2&play_id=1647263290779611
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b5StW2s/His-Channel-tv.png" group-title="Gospel Tv",  HisChannel
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gDqvfWG/unnamed.png" group-title= "Kids",  Gospel Cartoon
+https://www1.hischannel.com/liveedge/smil:hls.smil/chunklist_w1327470254_b30096000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.ctni.org/uploads/8/5/5/2/8552064/ctni-whitesm_5_orig.png" group-title="Gospel Tv",  CTNi Tv
+https://584097344c1f0.streamlock.net/48/_definst_/smil:48.smil/chunklist_w787991395_b1564000_sleng.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://apksos.com/storage/images/tvr/apdg/tvr.apdg_1.png" group-title="Gospel Tv",  TVR Television
+https://vsd88.mycdn.me/hls/1698824391191.m3u8/sig/fARf92UVnVQ/expires/1648821676485/srcIp/177.36.176.21/clientType/0/srcAg/CHROME_ANDROID/mid/3131926453783/1698824391191_high/index.m3u8?p
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Elimtv.png/revision/latest/scale-to-width-down/494?cb=20191110081504" group-title="Gospel Tv",  Elim tv
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/chunklist_b4628000.m3u8?p=79&h=973bf97fb3d1a1543819421ef2849f09
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m6GDSrM/Rede-Mais-Fam-lia.png" group-title="Gospel Tv",  Rede+Familia
+https://video01.logicahost.com.br/redefamilia/redefamilia/chunklist_w1520656895.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/SAT-7_PARS_Logo.png" group-title="Gospel Tv",  Sat7 Pars
+https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/sat7parspublish/sat7pars_720p/chunks_dvr.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://sublimegraciatv.com/gallery_gen/c49b986afb751882bcbee57f9c9b20d7_350x246.75.png" group-title="Gospel Tv", Sublime Gracia Tv
+https://5f700d5b2c46f.streamlock.net/sublime/sublime/chunklist_w1320577800.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0hF2VmR/Logopit-1645452037572.png" group-title="Gospel Tv",  Xto Enlace Tv
+http://www.channel.tevemi.com:1935/XtoTv/XtoTv/chunklist_w501048920.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d978d9_81182dc4b4f44be49f3f05c8ba6431a5~mv2.png/v1/fit/w_2500,h_1330,al_c/d978d9_81182dc4b4f44be49f3f05c8ba6431a5~mv2.png" group-title="Gospel Tv",  Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TPhd4wR/Enlace-Jubenil.png" group-title="Gospel Tv",  EJTV
+https://playback.akamaized.net/streams/27460990_8266929_lsiero8xjs90n6opvxn_1/media/27460990_8266929_lsiero8xjs90n6opvxn_1@1756000p.m3u8?dw=80&ts=1648735200&hdnts=exp=1648908251~acl=/streams/27460990_8266929_lsiero8xjs90n6opvxn_1/media*~hmac=3e9a5d26a714868bd351dcdf6c14bbf3615ae701c9e3f5f25997b3ee48e21b8f
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F6szqpQ/TvWM.png" group-title="Gospel Tv",  Tv WM Gospel
+https://stmv2.voxtvhd.com.br/tvwm/tvwm/chunklist_w23646151.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2K8M4j/Assembleia-almada.png" group-title="Gospel Tv",  AdAlmada Tv
+https://joaocaiado.com:1443/adalmada_tv/ngrp:adalmada_tv_all/chunklist_w328986885_b359228.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CH4ypCr/Canal-Evang-lica-tv.png" group-title="Gospel Tv",  Evangelica Tv1
+https://video01.logicahost.com.br/evangelicatv1/evangelicatv1/chunklist_w1784641890.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/5553563ae4b08689b8eeaf65/1431525670594-U13DGVS6OE3CYZJ5F1Y4/logo+AV.png?format=1000w&content-type=image%2Fpng" group-title="Gospel Tv", Aliento Vison
+https://livestreamcdn.net:444/Alientoenvivo/smil:Alientoenvivo.smil/chunklist_w660719398_b1300000_slen.m3u8
+
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/03/Gospel-Movies-live-vipotv.png" group-title="Gospel Tv", Gospel Movies Television
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1575071508.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.redetvgospel.com.br/wp-content/uploads/2019/11/logo@2x.png" group-title="Gospel Tv", Rede Gospel Tv
+https://youtu.be/36qCY-PeAo4i 
+
+#EXTINF:-1 tvg-logo="https://webitv.org/wp-content/uploads/2021/09/LOGO-WEBITV-1024x424.png" group-title="Gospel Tv", WebiTv Canal da Fé
+
+https://livefocamundo.com:8081/webitvcanaldafe/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/08/Assistir-KURIAKOS-CINE-Ao-Vivo-live-vipotv.png" group-title="Gospel Tv", Kuriakos Cine
+http://c2.manasat.com:1935/kcine/kcine1/chunklist_w573637762.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y2r55JC/Logopit-1645452446099.png" group-title="Gospel Tv", Movie Fé HD
+https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w2143843229.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KNTDj0v/Tv-adorador-gospel.png" group-title="Gospel Tv", Tv Adorador Gospel
+https://stmv1.voxtvhd.com.br/tvadoradorgospel/tvadoradorgospel/chunklist_w1803922086.m3u8
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_RP0393-yh_U/TTmjfRyDOxI/AAAAAAAAAt8/KtFCF3ddQB0/s1600/tv.png" group-title="Gospel Tv",  FonteTV (GO)
+http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8?IMDSFULL
+
+
+
+#EXTINF:-1 tvg-logo="https://www.angeltv.org/img/gif-logo.gif" group-title="Gospel Tv",  Angel Tv
+https://wowzaprod270-i.akamaihd.net/hls/live/1007388/e7a2aac8/e7a2aac8_1_1872000/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.angeltv.org/img/gif-logo.gif" group-title="Gospel Tv",  Angel Tv Portugues
+https://wowzaprod270-i.akamaihd.net/hls/live/1007388/fd9acaeb/fd9acaeb_1_1071000/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.angeltv.org/img/gif-logo.gif" group-title="Gospel Tv",  Angel Tv America
+https://wowzaprod270-i.akamaihd.net/hls/live/1007388/90053220/90053220_1_1372000/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tivu.tv/_common/images/loghi-canali/large/logo-paroledivita.png" group-title="Gospel Tv",  Paroledivita tv
+https://5db313b643fd8.streamlock.net/Paroledivita/Paroledivita/chunklist_w1930740028.m3u8
+
+#EXTINF:-1 tvg-logo="https://watchimpact.com/wp-content/uploads/2017/11/logo_main.png" group-title="Gospel Tv", Impact Network
+
+https://5abbf4687b6ea.streamlock.net/live/impactroku1/chunklist_w21798962.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.smnplay.com/uploads/3/0/1/1/30114993/editor/adbtv-partener.png?1634677710" group-title="Gospel Tv",  ADB Tv
+https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_3/chunklist_w1178538717.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canalvida.pt/wp-content/uploads/2022/01/Canal-Vida-TV.png" group-title="Gospel Tv", Canal vida
+https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_2/chunklist_w297849224.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NFPdjTf/Tv-Votu-line.png" group-title="Gospel Tv", Tv Votuline
+https://srv5.zcast.com.br/votuline/votuline/chunklist_w21384752.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/CxJIcLj5Wkxn-iGk6F68U2aHDovJ_r9HFfBFxSDqE1bFN9rMbYEAjfMyeCUPmxis7Q" group-title="Gospel Tv",  Nubeh Tv HD
+https://vcp.myplaytv.com/nubehtv/nubehtv/chunklist_w154406027.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mtBxn5d/Spirit-tv.png" group-title="Gospel Tv",  Spirit Tv
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1zjhjN2/Gospel-live-tv.png" group-title="Gospel Tv", Gospel Live tv
+https://stmv1.srvif.com/ronaldosantos/ronaldosantos/chunklist_w521699694.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DrpsQb7/Alcance-tv.png" group-title="Gospel Tv",  Alcance Tv
+https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/chunklist_w284617031.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HBjTBz9/Urbancris-tv.png" group-title="Gospel Tv",  Urban Cris Tv
+https://5790d294af2dc.streamlock.net/8160/8160/chunklist_w1884559491.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HBjTBz9/Urbancris-tv.png" group-title="Gospel Tv",  Urban Cris Tv2
+https://5790d294af2dc.streamlock.net/8090/8090/chunklist_w730186295.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PZPnHZ0/RTV-Vida-Plus.png" group-title="Gospel Tv",  RTV Vida Plus
+https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2020/12/spot-light-vipotv.png" group-title="Gospel Tv", Spot Light Tv
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8?ref=spotlighttv.co.uk&USER=Spotlight%2520TV&wowzasessionid=1416022466&
+
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/manabraziltv-min.png" group-title="Gospel Tv", Tv Maná Brasil
+http://195.22.11.11:1935/tvmanabrasil/tvmanabrasil_2/chunklist_w1705816955.m3u8
+
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/tv-mana-maputo.png" group-title="Gospel Tv", Tv Maná Maputo
+http://c3.manasat.com:1935/tvmz/tvmz3/chunklist_w1140153420.m3u8
+
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/09/tv-mana-1-en-vivo-live-vipotv-brazil.png" group-title="Gospel Tv", Tv Maná 1 PT
+http://195.22.11.11:1935/tvmana/tvmana2/chunklist_w946945292.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/ar-tv-mana-argentina-5925.jpg" group-title="Gospel Tv", Tv Maná Argentina
+http://csvl03.manasat.com:1935/tvar/tvmanaar1/chunklist_w1610946787.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/25ktrVJ/Dois-tv.png" group-title="Gospel Tv", Dios tv
+https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.terceiroanjo.com/static/img/logo1.png" group-title="Gospel Tv", TV Terceiro Anjo
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/livestream.m3u8?IMDSFULL
+
+
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/loveworldplus-vipotv-min.png" group-title="Gospel Tv", Love World Plus
+https://bus-eu-west-1-cimzmgnuu-cdn.sa.metacdn.com/live/ngrp:lxp480_main_all_transcode/chunklist_b1128000.m3u8
+
+
+
+
+
+
+
+###########Cartoon################
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdVOawreia0dHBrs1aSt-EQN7Hg8wivdtSbQ&usqp=CAU" group-title="Kids",  Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w1885509715.m3u8
 
+#EXTINF:-1 tvg-logo="https://monophy.com/media/jtKgCmLuL2bt4dCh6U/monophy.gif" group-title="Kids",  CTC Kids tv
+https://playback2.akamaized.net/streams/29920563_9263768_lsijh4yc1wwruwlxezr_1/exp=1647791716~acl=%2f*~data=hdntl~hmac=2fb79a0fc1feec015271c9925fe21abc0dbece3f27e9b04a017f178feac867f0/media/29920563_9263768_lsijh4yc1wwruwlxezr_1@5256000p.m3u8?dw=80&ts=1647702000
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/408905450358f73e519e50517013524f.webp" group-title= "Kids",  Gospel Cartoon 2
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/408905450358f73e519e50517013524f.webp" 
+group-title="Kids",  Gospel Cartoon 2
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w160807208.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://3abnkids.tv/img/3ABN-KIDS-LOGO.png" group-title= "Kids",  3ABN Kids
+#EXTINF:-1 tvg-logo="https://3abnkids.tv/img/3ABN-KIDS-LOGO.png" 
+group-title="Kids",  3ABN Kids
 https://moiptvhls-i.akamaihd.net/hls/live/652318-b/secure/HQs/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wyktzNN/Logopit-1645443504264.png" group-title="Kids",  Kuriakos Kids
 http://c2.manasat.com:1935/kkids/kkids2/chunklist_w1820850017.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://sat7.faulio.com/storage/mediagallery/95/5e/small_d189d6e5e0a948de4608cd2823cc0b2e37ed2de5.png" group-title="Kids",  Sat 7 kids
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/sat7kidspublish/sat7kids/chunks_dvr.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FzNp3T4/Paka-paka.png" group-title="Kids",  Paka Paka
+#EXTINF:-1 tvg-logo="https://i.giphy.com/media/FdAFUPJd2kfrA4mlEN/giphy.webp" group-title="Kids",  Paka Paka
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w1121251957.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://www.canalipe.tv/sites/default/files/web/programas/logoipeplay/logo_chicosipe.png" group-title="Kids", Chicos IPE
-https://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/6/69/EBS_KIDS_2000.svg/revision/latest/scale-to-width-down/300?cb=20210510075025" group-title="Kids",  EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w563620216.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.fanart.tv/fanart/pocoyo-80084.png" group-title="Kids", Pocoyo
-https://stream.ads.ottera.tv/cl/3c427f30-3db2-4e6f-9437-83d17f4589d3/1920x1080_4716800_3_false.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/tvoKIDS_235x235.png" group-title="Kids", TVO Kids
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/57/40/fa/5740fa83ddf4228fbf7932a090721aed.gif" group-title="Kids", TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/1500k/1500k.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/756ac17dfd115e07ca6d5f56db5ff688.webp" group-title="Kids", AniTv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r4FYqLs/Conta-anime.png" group-title="Kids",  Contv Anime
+https://contvanime-plex-ingest.cinedigm.com/masterR1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Az%C9%99rbaycan_Televiziya_logo.png" group-title="Kids", AnimeZone
+https://azxtv.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgH02mx/Anitv.png" group-title="Kids", AniTv
 https://srv6.zcast.com.br/anitv/anitv/chunklist_w774252592.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Identidad_Peruana_ipe_2016_producciones.png/revision/latest?cb=20200127021203" group-title="Kids", IPe
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/454924e01d06c3bc20131e8514187305.webp" group-title="Kids", ConecTv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bmhS5Lx/Conect-tv.png" group-title="Kids", ConecTv
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7sUmqv2.png" group-title="Kids", WZra Kids TV
 http://wpso.com:1936/hls/kidshd.m3u8
@@ -201,647 +432,480 @@ https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="Kids", Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w9722656_b1296000_slAR.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s124019g.png" group-title="Kids", CYC Tv
+http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w884806316.m3u8?IMDSFULL
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1024px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="Kids", TVG Kids
+http://infantil-crtvg.flumotion.com/playlist.m3u8?IMDSFULL
 
-#EXTINF:-1 tvg-logo="https://sublimegraciatv.com/gallery_gen/c49b986afb751882bcbee57f9c9b20d7_350x246.75.png" group-title="Gospel", Sublime Gracia Tv
-https://5f700d5b2c46f.streamlock.net/sublime/sublime/chunklist_w1320577800.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MMw9VWG/Retr-cartoon.png" group-title="Kids",  Retrô Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w25860909.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MMw9VWG/Retr-cartoon.png" group-title="Kids",   Retrô Cartoon 2
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w537051746.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0hF2VmR/Logopit-1645452037572.png" group-title="Gospel",  Xto Enlace Tv
-http://www.channel.tevemi.com:1935/XtoTv/XtoTv/chunklist_w501048920.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/enlace-tv-logo-683F9F308A-seeklogo.com.png" group-title="Gospel",  Enlace Tv
-https://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/index_1728_av-p.m3u8?sd=10&rebase=on
 
 
-#EXTINF:-1 tvg-logo="https://tvwm.com.br/admin/assets/img/logo.png" group-title="Gospel",  Tv WM Gospel
-https://stmv2.voxtvhd.com.br/tvwm/tvwm/chunklist_w23646151.m3u8
 
+###########Radio Radio Radio##########
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/4b67ca71e1ac21c3a9481cda15a461d4.webp" group-title="Gospel",  AdAlmada Tv
-https://joaocaiado.com:1443/adalmada_tv/ngrp:adalmada_tv_all/chunklist_w328986885_b359228.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Pz5prqR/EJTV.png" group-title="Gospel",  EJTV
-https://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/index_1728_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/R%C3%A1dio_Clube_Lages_logo.svg/1200px-R%C3%A1dio_Clube_Lages_logo.svg.png" group-title="Radio",  Radio FM
+https://r13.ciclano.io:15003/stream
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CH4ypCr/Canal-Evang-lica-tv.png" group-title="Gospel",  Evangelica Tv1
-https://video01.logicahost.com.br/evangelicatv1/evangelicatv1/chunklist_w1784641890.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Massa_FM_logo.svg/918px-Massa_FM_logo.svg.png" group-title="Radio",  Radio FM
+https://r13.ciclano.io:15015/live
 
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/Aliento-Vision-150x105.png" group-title="Gospel", Aliento Vison
-https://livestreamcdn.net:444/Alientoenvivo/smil:Alientoenvivo.smil/chunklist_w660719398_b1300000_slen.m3u8
-
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/03/Gospel-Movies-live-vipotv.png" group-title="Gospel", Gospel Movies Television
-https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1575071508.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://www.redetvgospel.com.br/wp-content/uploads/2019/11/logo@2x.png" group-title="Gospel", Rede Gospel Tv
-https://youtu.be/36qCY-PeAo4i 
-
-#EXTINF:-1 tvg-logo="https://webitv.org/wp-content/uploads/2021/09/LOGO-WEBITV-1024x424.png" group-title="Gospel", WebiTv Canal da Fé
-
-https://livefocamundo.com:8081/webitvcanaldafe/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/08/Assistir-KURIAKOS-CINE-Ao-Vivo-live-vipotv.png" group-title="Gospel", Kuriakos Cine
-http://c2.manasat.com:1935/kcine/kcine1/chunklist_w573637762.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Y2r55JC/Logopit-1645452446099.png" group-title="Gospel", Movie Fé HD
-https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w2143843229.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KNTDj0v/Tv-adorador-gospel.png" group-title="Gospel", Tv Adorador Gospel
-https://stmv1.voxtvhd.com.br/tvadoradorgospel/tvadoradorgospel/chunklist_w1803922086.m3u8
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_RP0393-yh_U/TTmjfRyDOxI/AAAAAAAAAt8/KtFCF3ddQB0/s1600/tv.png" group-title="Gospel",  FonteTV (GO)
-http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8?IMDSFULL
-
-
-
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/09/Angel-TV-Australia-live-vipotv.png" group-title="Gospel",  Anjel Tv
-https://wowzaprod270-i.akamaihd.net/hls/live/1007388/b3faeb4a/b3faeb4a_1_1371000/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://watchimpact.com/wp-content/uploads/2017/11/logo_main.png" group-title="Gospel", Impact Network
-
-https://5abbf4687b6ea.streamlock.net/live/impactroku1/chunklist_w21798962.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.smnplay.com/uploads/3/0/1/1/30114993/editor/adbtv-partener.png?1634677710" group-title="Gospel",  ADB Tv
-https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_3/chunklist_w1178538717.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.canalvida.pt/wp-content/uploads/2022/01/Canal-Vida-TV.png" group-title="Gospel", Canal vida
-https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_2/chunklist_w297849224.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NFPdjTf/Tv-Votu-line.png" group-title="Gospel", Tv Votuline
-https://srv5.zcast.com.br/votuline/votuline/chunklist_w21384752.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/CxJIcLj5Wkxn-iGk6F68U2aHDovJ_r9HFfBFxSDqE1bFN9rMbYEAjfMyeCUPmxis7Q" group-title="Gospel",  Nubeh Tv HD
-https://vcp.myplaytv.com/nubehtv/nubehtv/chunklist_w154406027.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mtBxn5d/Spirit-tv.png" group-title="Gospel",  Spirit Tv
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1zjhjN2/Gospel-live-tv.png" group-title="Gospel", Gospel Live tv
-https://stmv1.srvif.com/ronaldosantos/ronaldosantos/chunklist_w521699694.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DrpsQb7/Alcance-tv.png" group-title="Gospel",  Alcance Tv
-https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/chunklist_w284617031.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HBjTBz9/Urbancris-tv.png" group-title="Gospel",  Urban Cris Tv
-https://5790d294af2dc.streamlock.net/8160/8160/chunklist_w1884559491.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HBjTBz9/Urbancris-tv.png" group-title="Gospel",  Urban Cris Tv2
-https://5790d294af2dc.streamlock.net/8090/8090/chunklist_w730186295.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PZPnHZ0/RTV-Vida-Plus.png" group-title="Gospel",  RTV Vida Plus
-https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2020/12/spot-light-vipotv.png" group-title="Gospel", Spot Light Tv
-https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8?ref=spotlighttv.co.uk&USER=Spotlight%2520TV&wowzasessionid=1416022466&
-
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/manabraziltv-min.png" group-title="Gospel", Tv Maná Brasil
-http://195.22.11.11:1935/tvmanabrasil/tvmanabrasil_2/chunklist_w1705816955.m3u8
-
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/tv-mana-maputo.png" group-title="Gospel", Tv Maná Maputo
-http://c3.manasat.com:1935/tvmz/tvmz3/chunklist_w1140153420.m3u8
-
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/09/tv-mana-1-en-vivo-live-vipotv-brazil.png" group-title="Gospel", Tv Maná 1 PT
-http://195.22.11.11:1935/tvmana/tvmana2/chunklist_w946945292.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/25ktrVJ/Dois-tv.png" group-title="Gospel", Dios tv
-https://emisoras.hn:8081/diostevetv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Le4iJYy.gif" group-title="Gospel", Gracia tv
-https://v2.tustreaming.cl/graciatv/live1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/04/abj-tv-live-vipotv.png" group-title="Gospel", ABJ Tv
-https://streaming.viewmedia.tv/viewsatstream02/viewsatstream02.smil/chunklist_w844122301_b900000.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://www.terceiroanjo.com/static/img/logo1.png" group-title="Gospel", TV Terceiro Anjo
-http://streamer1.streamhost.org:1935/salive/GMI3anjoh/livestream.m3u8?IMDSFULL
-
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5c2d6bcb45776e646e128f9d/1546481025845-E7NJ1LJXT28TRWSSSSUI/Better+Life+Logo+Icon+BW+sm.png" group-title="Gospel",  Better Life
-http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8?IMDSFULL
-
-
-
-
-
-MUSICA   musica  musica musica  musica
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FzBLX18/Oitenta-e-Nove-Fm-89-9-Fm.png" group-title="Music", Radio FM OiTenta e NoVe
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FzBLX18/Oitenta-e-Nove-Fm-89-9-Fm.png" group-title="Radio", Radio FM OiTentaEnoVe
 https://stm01.virtualcast.com.br:8260/live
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Hpj24zG/ND-R-dio.png" group-title="Music", ND Radio Contemporaneo
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hpj24zG/ND-R-dio.png" group-title="Radio", ND Radio Contemporaneo
 https://superaudio.radio.br/radio/8160/stream
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BgSKzhL/R-dio-alvorada-fm.png" group-title="Music", Radio Alvorada
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hpj24zG/ND-R-dio.png" group-title="Radio", ND Radio Popular
+https://superaudio.radio.br/radio/8070/stream
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hpj24zG/ND-R-dio.png" group-title="Radio", ND Radio Rock
+https://superaudio.radio.br/radio/8040/stream
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BgSKzhL/R-dio-alvorada-fm.png" group-title="Radio", Radio Alvorada
 https://cast.youngtech.radio.br/radio/8045/radio?type=.flv
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mbFN6QF/R-dio-Studio-Souto-Gospel.png" group-title="Music", Radio Souto Gospel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mbFN6QF/R-dio-Studio-Souto-Gospel.png" group-title="Radio", Radio Souto Gospel
 https://centova5.transmissaodigital.com:20028/stream
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TWvGJLW/R-dio-Studio-Souto-Love.png" group-title="Music", Radio Souto LoveSongs
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TWvGJLW/R-dio-Studio-Souto-Love.png" group-title="Radio", Radio Souto LoveSongs
 https://centova5.transmissaodigital.com:20022/stream
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yNsgBfc/R-dio-Studio-souto-Studio-do-amor.png" group-title="Music", Radio Souto Studio do Amor
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yNsgBfc/R-dio-Studio-souto-Studio-do-amor.png" group-title="Radio", Radio Souto Studio do Amor
 https://centova5.transmissaodigital.com:20038/stream
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3vj4sP1/R-dio-Studio-Souto.png" group-title="Music", Radio Souto Sertanejo 80 & 90
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3vj4sP1/R-dio-Studio-Souto.png" group-title="Radio", Radio Souto Sertanejo 80 & 90
 https://centova5.transmissaodigital.com:20036/stream
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/znkJnn9/R-dio-Studio-Souto-Sertanejo.png" group-title="Music", Radio Souto Sertanejo Universitario
+#EXTINF:-1 tvg-logo="https://i.ibb.co/znkJnn9/R-dio-Studio-Souto-Sertanejo.png" group-title="Radio", Radio Souto Sertanejo Universitario
 https://centova5.transmissaodigital.com:20042/stream
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0t9DpVc/R-dio-Studio-Souto-Eurodance.png" group-title="Music", Radio Souto Eurodance Anos 90
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0t9DpVc/R-dio-Studio-Souto-Eurodance.png" group-title="Radio", Radio Souto Eurodance Anos 90
 https://centova5.transmissaodigital.com:20016/stream
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kStChnw/R-dio-planeta-love.png" group-title="Music", Radio Planeta Love
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kStChnw/R-dio-planeta-love.png" group-title="Radio", Radio Planeta Love
 http://node-15.zeno.fm/ut9t91zdma0uv?rj-ttl=5&rj-tok=AAABfwmJX7wAGUd6OgLoxOnUTQ
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r7cXsMb/I-love-music-tv.png" group-title="Music", I Love Music tv
-https://ilove.livebox.co.in/wowinhls/live.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0G9K68S/Canal-tv-Rio.png" group-title="Music", Canal Tv Rio
-https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio.smil/chunklist_w142398004_b1300000.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://canalcalitv.com/wp-content/uploads/2015/11/Logo_CaliTV.png" group-title="Music", Cali tv
-https://5ab772334c39c.streamlock.net/live-calitv/calitv1/chunklist_w1906368714.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR99qfUp77sn9g633F097vmYJQCn5eCfoUCgg&usqp=CAU" group-title="Music", Music Top
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w2102080890_b2028000_sleng.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://portalfoxmix.cl/tv/images/maletadvj.png" group-title="Music", PortalFoxMix
-https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w1726979635.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="Music", VEVO Latino
-https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest/0.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5dcc6a9f1621dc5dd511ca14_samsung&manifest_id=6dea9e26-c882-4427-9ec0-8af3bd5385a2&rendition=1080&session_id=532c0703-1b69-f040-f440-9c493cff023b&partner_id=samsung_tv&sid=a884ffa675e1d16e4dd48ae737fec221a941f819d437864038767b6460d18624&pic=114d0b7f95dea8703fdeb1101b0fb8074e4169bb06ccd85a9f4183df6639bc6c&ipv=4&pv=1
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TcPmRh9/Classic-Rock-tv.png" group-title="Music", Classic Rock
-https://cdn17.fntvchannel.com/v1/manifest/02eeb1726c343dc9c30c32e93dee82013e157021/ClassicRock-Channel-Plex/bd99fc04-cde3-4d82-9aa0-6df0b836e868/4.m3u8?ads.X-PLEX-TOKEN=D16_6GeE9HpPQc4nuUyZ&ads.CHANNEL=6196c8c01d310bf925e02615&ads.DEVICE_ID=f2d91dc0-e5cb-5855-82ca-c4bfdc967e9e&ads.DNT=0
-
-
-#EXTINF:-1 tvg-logo="https://tivustream.website/ios/Lanus_Loghi/ibiza.png" group-title="Music", Radio Ibiza
-https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w1546837090.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d7NJBS6/T-mtv.png" group-title="Music", MTV yo!
-https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master_2400.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jTc0JQ4/Biggest-pop-mtv.png" group-title="Music", MTV Biggest Pop
-https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gw06Fcd/Spankin-New-mtv.png" group-title="Music", MTV Spankin new
-https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master_2400.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BCKmVtJ/Bloco-party-mtv.png" group-title="Music", MTV Block Party
-https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master_2400.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Pmkgtv7/Cmt-music.png" group-title="Music", CMT Music
-https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master_2400.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2NkBP3h/Brasil-music-television.png" group-title="Music", BMTV
-https://srv5.zcast.com.br/bmtv/bmtv/chunklist_w1326827445.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nsDQBTC/Kpop-tv.png" group-title="Music", Kpop
-https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w148639598.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mWrqBaS.png" group-title="Music", PopStar Tv
-https://bd0c70d8954d416d819afb3e1c940ee6.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-10-POPSTAR-PLEX/993eaa8a-47f6-4d97-877f-2aa9f8ff0be6/1.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FxZLUmE.png" group-title="Music", Max Tv
-https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/1HD_Music_Television_Logo.png" group-title="Music", 1HD
-https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/06bc4e_18744442d63a4b668d4a001c69100bcf~mv2.png/v1/fill/w_294,h_100,al_c,q_85,usm_0.66_1.00_0.01/Juice%20TV%20Logo%20White.webp" group-title="Music", Juice
-https://juicex.nz/hls/mystream.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/2Cx2Dw4MNFk2-XhEImNm2Pu0wf9A0PpePuzGgcWOrKYp47CJP5NLufKyNRqtI30G9vzO=s200" group-title="Music", Radio Amor Eterno
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/2Cx2Dw4MNFk2-XhEImNm2Pu0wf9A0PpePuzGgcWOrKYp47CJP5NLufKyNRqtI30G9vzO=s200" group-title="Radio", Radio Amor Eterno
 https://ssl.stmxp.net:7134/;stream.nsv
 
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z27R6P5/Kronehit.png" group-title="Music", Kronehit
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6v4RCzN/R-dio-Demais-Fm.png" group-title="Music",Rádio Demais FM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6v4RCzN/R-dio-Demais-Fm.png" group-title="Radio",Rádio Demais FM
 https://live.paineldj.com.br/proxy/demaisfm1047?mp=/stream
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/4fun.tv_logo_2014.png" group-title="Music",  4FUN TV
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8?IMDSFULL
-
-#EXTINF:-1 tvg-logo="https://mishadioxin.com/img/portfolio/ACB%20TV.png" group-title="Music",  ACB TV
-http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8?IMDSFULL
-
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/04/play-tv-live-vipotv.png" group-title="Music",  Play TV
-http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8?IMDSFULL
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4KHbGsf/Unicanal.png" group-title="Music",  Unicanal
-http://45.55.127.106/live/unicanal_mid.m3u8?IMDSFULL
-
-
-#EXTINF:-1 tvg-logo="https://tvcnb.com/wp-content/uploads/2017/10/logo_TVCNB_camisa-e1526345548164.png" group-title="Music",  CNB TV
-https://livefocamundo.com:8081/tvcnb/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.manausmix.com/assets/images/LogoMMWebTV.png" group-title="Music",  Manaus Mix webtv
-https://stmv1.srvif.com/manaus/manaus/chunklist_w1228137536.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/e6aa0ad770325c0c0b656ab54716e542.png" group-title="Music",  Max Tv
-https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
-
-#EXTINF:-1 tvg-logo="http://itvbrasil.tv.br/wp-content/uploads/2018/06/cropped-ITV_LOGO.png" group-title="Music",  ITV
-http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?IMDSFULL
-
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/937b9d2aa4f593b7b82e9b8e2ef22968.png" group-title="Music",  CN Agitos
-https://serv2.videovox.pw/cnagitos/cnagitos/chunklist_w1423032223.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b7WKgMY/R-dio-Sertanejo-Universit-rio.png" group-title="Music", Radio Sertanejo Universitario
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b7WKgMY/R-dio-Sertanejo-Universit-rio.png" group-title="Radio", Radio Sertanejo Universitario
 https://ssls03.transmissaodigital.com:6752/;
 
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pfyjXGX/Web-R-dio-Retr.png" group-title="Music", Radio Retrô
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pfyjXGX/Web-R-dio-Retr.png" group-title="Radio", Radio Retrô
 http://63.143.40.238:8076/;
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rmrDWv3/Lovetimes.png" group-title="Music", Radio Lovetimes
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rmrDWv3/Lovetimes.png" group-title="Radio", Radio Lovetimes
 https://medias.sgr.globo.com/hls/aBHFM/aBHFM.m3u8\
 
-#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.15638.13510798886664362.21bc4d48-d3cf-465a-81e1-0dec3b0ade29.b8b2bd23-0789-46a6-8ccd-b9588f8e521a?mode=scale&q=90&h=300&w=300" group-title="Music", Radio Motel
+#EXTINF:-1 tvg-logo="https://store-images.s-microsoft.com/image/apps.15638.13510798886664362.21bc4d48-d3cf-465a-81e1-0dec3b0ade29.b8b2bd23-0789-46a6-8ccd-b9588f8e521a?mode=scale&q=90&h=300&w=300" group-title="Radio", Radio Motel
 https://usa11.fastcast4u.com/proxy/radiomotel?mp=/stream3
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9txD0N6/Cnd-american.png" group-title="Music", CNB American
+
+
+
+
+
+#############Music Tv################
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://ibizaglobal.tv/wp-content/uploads/2017/03/logo_tv-180x60.png" group-title="Music tv", Ibiza Global Tv
+https://nodo04-cloud01.streaming-pro.com/ibgrtv/hls/ibgrlive_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://kissfm.com.br/wp-content/themes/KISSFM/img/kisslogo.png" group-title="Music tv", Kiss tv
+https://cast.cdnseguro.com:19360/8094/8094.m3u8\
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r7cXsMb/I-love-music-tv.png" group-title="Music tv", I Love Music tv
+https://ilove.livebox.co.in/wowinhls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0G9K68S/Canal-tv-Rio.png" group-title="Music tv", Canal Tv Rio
+https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio/chunklist_w2060022017.m3u8
+
+#EXTINF:-1 tvg-logo="http://canalcalitv.com/wp-content/uploads/2015/11/Logo_CaliTV.png" group-title="Music tv", Cali tv
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/chunklist_w1906368714.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR99qfUp77sn9g633F097vmYJQCn5eCfoUCgg&usqp=CAU" group-title="Music tv", Music Top
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w2102080890_b2028000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://portalfoxmix.cl/tv/images/maletadvj.png" group-title="Music tv", PortalFoxMix
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w1726979635.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="Music tv", VEVO Latino
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest/0.m3u8?type=manifest&media_tailor_id=d58cb533af925f0d206e7043f2eb25fe50b073e5&config_id=5dcc6a9f1621dc5dd511ca14_samsung&manifest_id=6dea9e26-c882-4427-9ec0-8af3bd5385a2&rendition=1080&session_id=532c0703-1b69-f040-f440-9c493cff023b&partner_id=samsung_tv&sid=a884ffa675e1d16e4dd48ae737fec221a941f819d437864038767b6460d18624&pic=114d0b7f95dea8703fdeb1101b0fb8074e4169bb06ccd85a9f4183df6639bc6c&ipv=4&pv=1
+
+#EXTINF:-1 tvg-logo="https://tivustream.website/ios/Lanus_Loghi/ibiza.png" group-title="Music tv", Radio Ibiza
+https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w1546837090.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gyxSN1n/Rede-RC-Bahia.png=" group-title="Music tv", Rede RC Bahia
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8?IMDSFULL
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mDzR9yV/Telesondrionews.png" group-title="Music tv", TSN1
+http://wms.shared.streamshow.it/tsn/tsn_mobile/chunklist_w722934767.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/J3hFyNp/Mtv-yo.gif" group-title="Music tv", MTV yo!
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master_2400.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XChV8jh/Mtv-Biggest-pop.gif" group-title="Music tv", MTV Biggest Pop
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZXkYgBK/Spankin-new.gif" group-title="Music tv", MTV Spankin new
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master_2400.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d6vWpj5/Mtv-block-party.gif" group-title="Music tv", MTV Block Party
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master_2400.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCKmVtJ/Bloco-party-mtv.png" group-title="Music tv", MTV Brasil
+https://m3u9.tk/a/hls1/mtv-bk.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yOC8yMDIyIDM6MTA6MDkgQU0maGFzaF92YWx1ZT05L2lGZHZvK0luUGZpSS9uaEdDR0V3PT0mdmFsaWRtaW51dGVzPTQ4MCZpZD01&attachment=true
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pmkgtv7/Cmt-music.png" group-title="Music tv", CMT Music
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master_2400.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2NkBP3h/Brasil-music-television.png" group-title="Music tv", BMTV
+https://srv5.zcast.com.br/bmtv/bmtv/chunklist_w752182792.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nsDQBTC/Kpop-tv.png" group-title="Music tv", Kpop
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w148639598.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FxZLUmE.png" group-title="Music tv", Max Tv
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/1HD_Music_Television_Logo.png" group-title="Music tv", 1HD
+https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z27R6P5/Kronehit.png" group-title="Music tv", Kronehit
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/4fun.tv_logo_2014.png" group-title="Music tv",  4FUN TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8?IMDSFULL
+
+#EXTINF:-1 tvg-logo="https://mishadioxin.com/img/portfolio/ACB%20TV.png" group-title="Music tv",  ACB TV
+http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8?IMDSFULL
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Alpha-TV-Logo.png/600px-Alpha-TV-Logo.png?20150524154505" group-title="Music tv",  Alpha tv
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/chunklist_w631774509.m3u8
+
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/04/play-tv-live-vipotv.png" group-title="Music tv",  Play TV
+http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvcnb.com/wp-content/uploads/2017/10/logo_TVCNB_camisa-e1526345548164.png" group-title="Music tv",  CNB TV
+https://livefocamundo.com:8081/tvcnb/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XZv0JTr/Movimento-manaus.png" group-title="Music tv",  Manaus Mix webtv
+https://stmv1.srvif.com/manaus/manaus/chunklist_w1228137536.m3u8
+
+#EXTINF:-1 tvg-logo="http://itvbrasil.tv.br/wp-content/uploads/2018/06/cropped-ITV_LOGO.png" group-title="Music tv",  ITV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?IMDSFULL
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/937b9d2aa4f593b7b82e9b8e2ef22968.png" group-title="Music tv",  CN Agitos
+https://serv2.videovox.pw/cnagitos/cnagitos/chunklist_w1423032223.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9txD0N6/Cnd-american.png" group-title="Music tv", CNB American
 https://livefocamundo.com:8081/tvcnbamerican/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/03/CH-Music-TV-live-vipotv.png" group-title="Music", CH Music Tv
-https://edge1.tikilive.com/livehttporigin_tikilive/36199/amlst:mainstream/chunklist_b1025136.m3u8?p=local&op_id=19&userId=0&channelId=36199&stime=1646650487&etime=1646736887&token=0246930eb8d3d54e5b7c4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gFmMyyf/0-19-es.png" group-title="Music tv",  Canal 019 
+https://stmv1.srvstm.com/bruno4723/bruno4723/chunklist_w415896107.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pwc8CZ7/Gostei-r-dio-e-tv.png" group-title="Music",  Gostei  Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pwc8CZ7/Gostei-r-dio-e-tv.png" group-title="Music tv",  Gostei  Tv
 https://59f1cbe63db89.streamlock.net:1443/redegostei/redegostei/chunklist_w1021203759.m3u8
 
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/loveworldplus-vipotv-min.png" group-title="Music", Love World Plus
-https://bus-eu-west-1-cimzmgnuu-cdn.sa.metacdn.com/live/ngrp:lxp480_main_all_transcode/chunklist_b1128000.m3u8
-
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/ebc1-tv-music-live-vipotv-min.png" group-title="Music", EBC Music
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2020/09/ebc1-tv-music-live-vipotv-min.png" group-title="Music tv", EBC Music
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/chunklist_w820791930.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G5UGhwA.png" group-title="Music", RadioTv Favorita
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G5UGhwA.png" group-title="Music tv", RadioTv Favorita
 https://streamyes.alsolnet.com/radiofavoritatv/live/chunklist_w2007168887.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0vecK36.png" group-title="Music", Radio e Tv Camila Fm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0vecK36.png" group-title="Music tv", Radio e Tv Camila Fm
 https://593b04c4c5670.streamlock.net/8142/8142/chunklist_w513126233.m3u8
 
-#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/5/97255.v2.png" group-title="Music", Eurodance 90's Best
-http://node-12.zeno.fm/pdgmg8eu8k0uv?rj-ttl=5&rj-tok=AAABfwli-Y8AkWAG1BIYbGD7RQ
-
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Ep7p1vjXIAAJQqH.png" group-title="Music", Eurodance mix
-http://node-28.zeno.fm/08211geen98uv?rj-ttl=5&rj-tok=AAABfwll40IARafKW2fSuj7FAA
-
-
-#EXTINF:-1 tvg-logo="https://maximachile.cl/wp-content/uploads/2019/10/LOGO-MAXIMA-MIO-ESTATICO-e1572548123359.png" group-title="Music", Maxima
+#EXTINF:-1 tvg-logo="https://maximachile.cl/wp-content/uploads/2019/10/LOGO-MAXIMA-MIO-ESTATICO-e1572548123359.png" group-title="Music tv", Maxima
 https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/chunklist_w400572797.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SQ13tKH/M-2.png" group-title="Music", M2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SQ13tKH/M-2.png" group-title="Music tv", M2
 https://live.m2.tv/hls3/720/stream.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s20ZPMF/M2O.png" group-title="Music", M2O
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s20ZPMF/M2O.png" group-title="Music tv", M2O
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/tv-alvorada-sertaneja-min.png" group-title="Music", Tv Alvorada Sertaneja
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/tv-alvorada-sertaneja-min.png" group-title="Music tv", Tv Alvorada Sertaneja
 https://stmv1.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/chunklist_w401143659.m3u8
 
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/capital-radio-live-vipotv.png" group-title="Music", Capital tv
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/capital-radio-live-vipotv.png" group-title="Music tv", Capital tv
 https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/index_3_av-p.m3u8?sd=10&rebase=on
 
-
-
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/07/Portal-Ativo-live-vipotv-brasil.png" group-title="Music", Portal Ativo Tv
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/07/Portal-Ativo-live-vipotv-brasil.png" group-title="Music tv", Portal Ativo Tv
 https://flussonic-tv.jupiter.com.br/portalativo/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8bKJsJZ/M-sica-tv.png" group-title="Music", Muzsika Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8bKJsJZ/M-sica-tv.png" group-title="Music tv", Muzsika Tv
 https://stream.y5.hu/stream/stream_muzsikatv/stream.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/citytv-vipotvd-min.png" group-title="Music", City Tv
-
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/citytv-vipotvd-min.png" group-title="Music tv", City Tv
 https://tv.city.bg/play/tshls/citytv/3.m3u8
 
-
-MEUS CANAIS
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://tvsaojose.com.br/img/logo.png" group-title="Sao Bento do Sul", Tv São José
-http://177.74.174.57:8080/hls/tvsj.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Hz9xkfk/Tv-Brusque.png" group-title="Sao Bento do Sul", Tv Brusque
-https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8?IMDSFULL
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Sao Bento do Sul", Rede Record
-http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-b.m3u8?IMDSFULL
-
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Sao Bento do Sul", Record SP
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-b.m3u8?IMDSFULL
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4dJJMht/NDtv-HD-Record.png" group-title="Sao Bento do Sul", NDTV Record SC
-https://caikron.com.br:19360/floripa/floripa.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NtzfGtg/ND-TV-sc.png" group-title="Sao Bento do Sul", NDTV R Joinville SC
-https://caikron.com.br:19360/floripa/floripa.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ynz7k4Q/Cine-AR.png" group-title="Cinema", CineAR 
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w140296313.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QKSLpz4/Cine-life.png" group-title="Cinema", Cine Life
-https://magselect-stirr.amagi.tv/playlist1080p.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ox/293859/png/293859.png" group-title="Cinema", CineFree 1
-https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1924123557.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vdSHQLW/Classique-western.png" group-title="Cinema", TV Classique Western
-https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1410336332.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s3SP3Yj/Classique-Culto-Movies.pngo" group-title="Cinema", Classique Tv
-https://stmv1.srvif.com/classique/classique/chunklist_w233994292.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mChrpzB/Classique-tv-movies-classicos.png" group-title="Cinema", Classique tv 2
-https://stmv1.srvif.com/classiquetv1/classiquetv1/chunklist_w472728652.m3u8
-
-#EXTINF:-1 tvg-logo="https://lacaletatv.com/wp-content/uploads/2019/05/cropped-LOGO-DE-FACENDA-FINAL-4-1-2019-2-1.png" group-title="Cinema", La caleta Tv
-https://cdn4.hostlagarto.com:8081/static/lacaletatv/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/www.gdm.do/wp-content/uploads/2020/01/Logo-GDM.png?w=696&ssl=1" group-title="Cinema", GDM Television
-https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1317041912.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHqt9zF/TVS.png" group-title="Cinema", TVS
-http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KXfRxB7/Tv-jornal-do-nordeste.png" group-title="Cinema", Tv Jornal do nordeste
-https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w1451919653.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81IDRdRJYyL.png" group-title="Cinema", Gravitas Movie
-https://gravitas-movies.sinclair.wurl.com/manifest/512.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0751e6f80779fff26fd8f4b17d82c50f.webp" group-title="Cinema", RunTime
-https://stream.ads.ottera.tv/cl/6e92032f-6dd2-439a-9809-4601fe0220ac/1920x1080_4716800_3_false.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Az%C9%99rbaycan_Televiziya_logo.png" group-title="Cinema", AnimeZone
-https://azxtv.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/07/tv-cine-live-vipotv-brasil.png" group-title="Cinema", TvCine
-https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1278414806.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbr-str.srvsite.com/arquivos/7051/cabecalho-7051-20200320104612.png" group-title="Cinema", Tv Carioca NET
-https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1706754216.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/v2tv-vipotv-min.png" group-title="Music", V2 Beat
-
-https://de1se01.v2beat.live/thumbnail.mp4
-
-
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2020/12/v2beat-v2-vipotv.png" group-title="Music", V2 Beat Pop Tv
-https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8?nimblesessionid=78179327
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vmhsSJ3/Tu-m-sica-television.png" group-title="Music", Tu Musica Televisiónoppp
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vmhsSJ3/Tu-m-sica-television.png" group-title="Music tv", Tu Musica Televisiónoppp
 https://cloudflare.streamgato.us:3901/live/radio105live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qCLICfC.jpg" group-title="Music", VIVA Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qCLICfC.jpg" group-title="Music tv", VIVA Music
 https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LgQBtTh.jpg" group-title="Music", Xalastra
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LgQBtTh.jpg" group-title="Music tv", Xalastra
 https://live.cast-control.eu/xalastratv/xalastratv/chunklist_w1830140483.m3u8
 
-#EXTINF:-1 tvg-logo="https://rwtv.com.br/wp-content/uploads/2020/06/logo-redewebtv.png" group-title="Sao Bento do Sul", Rede Web tv
-https://serv3.videovox.pw/alexandre8915/alexandre8915/chunklist_w1978933151.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MZJSQ9g/Alian-a-Catarinense.png" group-title="Sao Bento do Sul",  Aliança Catarinense Tv
-https://video01.logicahost.com.br/tvalianca/tvalianca/chunklist_w1021734894.m3u8
-
-#EXTINF:-1 tvg-logo="https://portalfalalitoral.com.br/wp-content/uploads/2021/04/logo-nova-fala-litoral_Prancheta-1-300x230.png" group-title="Sao Bento do Sul",  Fala Litoral News
-https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/chunklist_w2083637969.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h7kN2Xj/Ocko-music.png" group-title="Music", Ocko Music
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h7kN2Xj/Ocko-music.png" group-title="Music tv", Ocko Music
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MpwsG30/Ocko-express.png" group-title="Music", Ocko Express
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MpwsG30/Ocko-express.png" group-title="Music tv", Ocko Express
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/J3LnVB3/Best-Cable-Music.png" group-title="Music",  Best Cable Music
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAqfMxj72cPr2dbxFv0o5Ly0Nng-NIwlFL_A&usqp=CAU" group-title="Music tv", Ocko Star
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/chunklist_b2628000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/J3LnVB3/Best-Cable-Music.png" group-title="Music tv",  Best Cable Music
 https://www.chaojidianshi.net/bestcablemusic/bestcablemusic/playlist.m3u8?PlaylistM3UCL
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xV82cmA.png" group-title="Music",  VH1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xV82cmA.png" group-title="Music tv",  VH1
 https://content-asae1-up-1.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf/e.m3u8?pbs=7ae09c622e494e69bd5a47955ce1d117
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LdMVKQG/Activa-tv.png" group-title="Music",  Activa Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LdMVKQG/Activa-tv.png" group-title="Music tv",  Activa Tv
 https://streamtv.mediasector.es/hls/activatv/1_2/index.m3u8?sessId=2009842
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Fq9yLJ5/Tv-imagem.png" group-title="Music",  Tv Imagem
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fq9yLJ5/Tv-imagem.png" group-title="Music tv",  Tv Imagem
 http://stmv1.caxiashost.com.br/caxiashost/caxiashost/chunklist_w1090463670.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0eYWk5q.png" group-title="Music",  TvRP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0eYWk5q.png" group-title="Music tv",  TvRP
 https://5b7f3c45ab7c2.streamlock.net/8042/8042/chunklist_w852160248_DVR.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/68440ade4173cf6883793fe3238cc238.png" group-title="Music", APlusTv
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/68440ade4173cf6883793fe3238cc238.png" group-title="Music tv", APlusTv
 https://stmv1.voxtvhd.com.br/aplustv/aplustv/chunklist_w353267275.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/retro-music-vipotv.png" group-title="Music", Retrô Music Television
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/retro-music-vipotv.png" group-title="Music tv", Retrô Music Television
 https://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1236398796.m3u8
 
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/retro-music-vipotv.png" group-title="Music", Retrô Music Television
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/01/retro-music-vipotv.png" group-title="Music tv", Retrô Music Television
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1363791385_b750000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gPXzc63/Retr-plus-tv.png" group-title="Music",  Retrô Plus Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gPXzc63/Retr-plus-tv.png" group-title="Music tv",  Retrô Plus Tv
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1768289969.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gPXzc63/Retr-plus-tv.png" group-title="Music",  Retrô Plus Tv2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gPXzc63/Retr-plus-tv.png" group-title="Music tv",  Retrô Plus Tv2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w706986722.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gPXzc63/Retr-plus-tv.png" group-title="Music",  Retrô Plus Tv3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gPXzc63/Retr-plus-tv.png" group-title="Music tv",  Retrô Plus Tv3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w784872919.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wSDN2s7/Theo-retr-channel.png" group-title="Music",  The Retrô Channel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wSDN2s7/Theo-retr-channel.png" group-title="Music tv",  The Retrô Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/chunklist_w1364834340.m3u8
 
 
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MMw9VWG/Retr-cartoon.png" group-title="Cinema",  Retrô Cartoon
-https://stmv1.srvif.com/retrotv/retrotv/chunklist_w25860909.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MMw9VWG/Retr-cartoon.png" group-title="Cinema",  Retrô Cartoon 2
-https://stmv1.srvif.com/retrotv/retrotv/chunklist_w537051746.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3CzzqKM/Bons-tempos-tv.png" group-title="Cinema",  Bons Tempos Tv
-https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w330686251.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LP1jtYP/R-dio-Studio-sertanejo.png" group-title="Music",  TV Studio Sertanejo 106
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LP1jtYP/R-dio-Studio-sertanejo.png" group-title="Music tv",  TV Studio Sertanejo 106
 https://live.cdn.upx.com/2384/myStream.sdp/chunklist.m3u8?5c659a24127796a2c1afe9ce5f263a4e
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FxQRk9P/Country-m-sic-television.png" group-title="Music",  CMT Country
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FxQRk9P/Country-m-sic-television.png" group-title="Music tv",  CMT Country
 https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5f68f53eb1e5800007390bf8livestitch/2977158/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=f12df35d-04d0-4d02-b63c-b673f3324c09&deviceVersion=98.0.4758&appVersion=5.109.0-6577a51c82bdba0d9a0a2bab4950dd43d469ea83&deviceType=web&deviceMake=chrome&sid=e3fd5140-9dc7-11ec-a666-0242ac110003&advertisingId=&deviceLat=41.8486&deviceLon=-87.6288&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjFiYzNiZmQyLTRjYzEtNDAzYS05MjExLWY5OGYzOGY4ZTA3YyIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJlM2ZkNTE0MC05ZGM3LTExZWMtYTY2Ni0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjM3LjkuMzUuODAiLCJjaXR5IjoiQ2hpY2FnbyIsInBvc3RhbENvZGUiOiI2MDYxNiIsImNvdW50cnkiOiJVUyIsImRtYSI6NjAyLCJhY3RpdmVSZWdpb24iOiJVUyIsImRldmljZUxhdCI6NDEuODQ4NiwiZGV2aWNlTG9uIjotODcuNjI4OCwicHJlZmVycmVkTGFuZ3VhZ2UiOiJwdCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiOTguMC40NzU4IiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwOS4wLTY1NzdhNTFjODJiZGJhMGQ5YTBhMmJhYjQ5NTBkZDQzZDQ2OWVhODMiLCJjbGllbnRJRCI6ImYxMmRmMzVkLTA0ZDAtNGQwMi1iNjNjLWI2NzNmMzMyNGMwOSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0NoaWNhZ28iLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiYWRMb2FkIjp7ImNvaG9ydCI6IjMifX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiZjEyZGYzNWQtMDRkMC00ZDAyLWI2M2MtYjY3M2YzMzI0YzA5IiwiZndWY0lEMkNvcHBhIjoiZjEyZGYzNWQtMDRkMC00ZDAyLWI2M2MtYjY3M2YzMzI0YzA5IiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiJmMTJkZjM1ZC0wNGQwLTRkMDItYjYzYy1iNjczZjMzMjRjMDkiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiJ9fSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY0NjY1MzAzOSwianRpIjoiYThiZDgyNmMtNTU3Ny00MmRmLWJmODctZTc0NmZiZjM3ZGM3IiwiaWF0IjoxNjQ2NjI0MjM5LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6WmpFeVpHWXpOV1F0TURSa01DMDBaREF5TFdJMk0yTXRZalkzTTJZek16STBZekE1In0.tNy_9dPKvphCUjz3hTlvy7jadg9Hh6Qpo62w0Yt31Jw&app_name=web&clientDeviceType=0&clientID=f12df35d-04d0-4d02-b63c-b673f3324c09&clientModelNumber=1.0.0&country=US&marketingRegion=US&sessionID=e3fd5140-9dc7-11ec-a666-0242ac110003&masterJWTPassthrough=true&profilesFromStream=true
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LnJ4Cgk/Country-m-sica-4u.png" group-title="Music",  Neshville Country Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LnJ4Cgk/Country-m-sica-4u.png" group-title="Music tv",  Neshville Country Tv
 https://manifests.tikilive.com/v1/manifest/5272bfbac8785e0a4829ff37374a9e36d6be752c/spsv_live_with_preroll_desktop/6eef4c38-c468-4cad-9133-9d5769e0d554/nashville-country-tv/hls/0.m3u8?p=spnashvillecountrytv&op_id=19&userId=0&channelId=57465&stime=1646650724&etime=1646737124&token=02112edaec6ea0c046c4a&deviceID=webDevice&mtd=c74a2a5256c845fa836890337b7f04de.mediatailor.us-east-1.amazonaws.com&ads.scid=651009&ads.pod_size=8&ads.pod_max_pod_dur=120&ads.pod_max_ad_dur=120&ads.pod_min_ad_dur=5&ads.player_width=360&ads.player_height=202&ads.user_yob=&ads.user_gender=&ads.lsb=%5B&ads.rsb=%5D&ads.regs_gdpr=1&ads.user_consent=1&ads.device_dnt=0&ads.device_lmt=0&ads.app_bundle=tikilive.webDevice&ads.app_name=TikiLIVE%2BHTML5%2BWeb%2BDevice&ads.device_geo_lat=41.85003&ads.device_geo_lon=-87.65005&domain=tikilive.com&ads.content_page_url=https%253A%252F%252Fwww.tikilive.com%252Fchannel%252Fnashville-country-tv&ctx=desktop&ads.ua=&ads.content_id=57465&ads.content_title=Nashville%2BCountry%2BTV&ads.channel_name=Nashville%2BCountry%2BTV&ads.network_name=116511&ads.content_genre=Music&ads.content_livestream=1
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LnJ4Cgk/Country-m-sica-4u.png" group-title="Music",  Country Music 4U
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LnJ4Cgk/Country-m-sica-4u.png" group-title="Music tv",  Country Music 4U
 https://59d39900ebfb8.streamlock.net/countrymusic4u/countrymusic4u/chunklist_w1682761019.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pvrvSPj/Cmc-usa.png" group-title="Music",  CMC TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pvrvSPj/Cmc-usa.png" group-title="Music tv",  CMC TV HD
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png" group-title="Music",  TV California Music Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png" group-title="Music tv",  TV California Music Channel
 https://cmc-ono.amagi.tv/amRdirect/device[did]=%5BAD_IDFA%5B&us_privacy=%7BUS_PRIVACY%7D&coppa=%7BCOPPA%7D&uid=1fqmjcih8-mnu4-b7o-6v45-xqq86w5wjqp/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MLqDkEz.png" group-title="Music",  Ditty Tv Americana
+#EXTINF:-1 tvg-logo="https://www.circleallaccess.com/wp-content/uploads/2020/04/dittytv-concert-series-logo.png" group-title="Music tv",  Ditty Tv Americana
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/index_1000_av-p.m3u8?sd=10&rebase=on
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jRQkNYZ/Deejay-tv.png" group-title="Music",  Deejay Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jRQkNYZ/Deejay-tv.png" group-title="Music tv",  Deejay Tv
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4T5Dsn9/M-sica-top.png" group-title="Music",  Musica Top Tv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4T5Dsn9/M-sica-top.png" group-title="Music tv",  Musica Top Tv
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w2089035706_b2028000_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.radioetvsrn.d2cast.com.br/admin/assets/img/users/9632-2020-08-20.png" group-title="Music tv", Rádio e TV SRN PI CLIPES
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8?IMDSFULL
+
+#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="Music tv",  WOW Tv
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?IMDSFULL?JoCaRoIPTV.m3u8?IMDSFULL
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3vpWL9J/Lindomar-conex-o-Amigos-da-m-sica.png" group-title="Music tv",  Lindomar Dance
+https://youtube.com/playlist?list=PLTLDsYwjvba6eAbcvZvFuVsFnsa1sgvNK
 
 
 
 
 
-CINEMA
+
+
+########Canais Abertos#########
 
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2020/11/mytv-channel-live-vipotv.png" group-title="Cinema", MyTv Channel
+
+
+#EXTINF:-1 tvg-logo="http://tvsaojose.com.br/img/logo.png" group-title="Canais Abertos", Tv São José
+http://177.74.174.57:8080/hls/tvsj.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrZCX9C/Risc-tvs.png" group-title="Canais Abertos", Risc tv
+https://stmv2.samcast.com.br/sandro9822/sandro9822/chunklist_w1956183644.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KbT48sC/Tv-galega.png" group-title="Canais Abertos", Galega tv
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8?IMDSFULL
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hz9xkfk/Tv-Brusque.png" group-title="Canais Abertos", Tv Brusque
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8?IMDSFULL
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dG394hP/Brasil-tv.png" group-title="Canais Abertos", Brasil tv
+https://5cf4a2c2512a2.streamlock.net/mundotv/mundotv/chunklist_w296712145.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1200px-TV_Brasil_logo_2019.svg.png" group-title="Canais Abertos", Tv Brasil web
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLl4rgaIahInQ5N1DODo9fXQ)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
+
+#EXTINF:-1 tvg-logo="https://rwtv.com.br/wp-content/uploads/2020/06/logo-redewebtv.png" group-title="Canais Abertos", Rede Web tv
+https://serv3.videovox.pw/alexandre8915/alexandre8915/chunklist_w1978933151.m3u8
+
+#EXTINF:-1 tvg-logo="https://portalfalalitoral.com.br/wp-content/uploads/2021/04/logo-nova-fala-litoral_Prancheta-1-300x230.png" group-title="Canais Abertos",  Fala Litoral News
+https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/chunklist_w2083637969.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MZJSQ9g/Alian-a-Catarinense.png" group-title="Canais Abertos",  Aliança Catarinense Tv
+https://video01.logicahost.com.br/tvalianca/tvalianca/chunklist_w1021734894.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MfvYpsK/Awtv.png" group-title="Canais Abertos", AWtv
+https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/chunklist_w1757047876.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZBwBRs7/Tv-Naza.png" group-title="Canais Abertos", Tv NAZA
+https://stmv1.srvif.com/tvnaza/tvnaza/chunklist_w110958299.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/uploads/channel/13287/thumb_DHT_TV_.png" group-title="Canais Abertos", DTH tv
+https://video01.kshost.com.br:4443/alan1268/alan1268/chunklist_w1205982604.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvbrasilhits.com.br/wp-content/uploads/2021/07/logo-grande.png" group-title="Canais Abertos", Tv Brasil Hits
+https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1998118925.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvriogrande.com/admin/assets/img/logo.png" group-title="Canais Abertos", TV Rio Grande
+https://stmv1.srvif.com/tvriogrande/tvriogrande/chunklist_w1829839628.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ynz7k4Q/Cine-AR.png" group-title="Canais Abertos", CineAR 
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w140296313.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QKSLpz4/Cine-life.png" group-title="Canais Abertos", Cine Life
+https://magselect-stirr.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ox/293859/png/293859.png" group-title="Canais Abertos", CineFree 1
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1924123557.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vdSHQLW/Classique-western.png" group-title="Canais Abertos", TV Classique Western
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1410336332.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s3SP3Yj/Classique-Culto-Movies.pngo" group-title="Canais Abertos", Classique Tv
+https://stmv1.srvif.com/classique/classique/chunklist_w233994292.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mChrpzB/Classique-tv-movies-classicos.png" group-title="Canais Abertos", Classique tv 2
+https://stmv1.srvif.com/classiquetv1/classiquetv1/chunklist_w472728652.m3u8
+
+#EXTINF:-1 tvg-logo="https://lacaletatv.com/wp-content/uploads/2019/05/cropped-LOGO-DE-FACENDA-FINAL-4-1-2019-2-1.png" group-title="Canais Abertos", La caleta Tv
+https://cdn4.hostlagarto.com:8081/static/lacaletatv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.gdm.do/wp-content/uploads/2020/01/Logo-GDM.png?w=696&ssl=1" group-title="Canais Abertos", GDM Television
+https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1317041912.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHqt9zF/TVS.png" group-title="Canais Abertos", TVS
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KXfRxB7/Tv-jornal-do-nordeste.png" group-title="Canais Abertos", Tv Jornal do nordeste
+https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/chunklist_w1451919653.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81IDRdRJYyL.png" group-title="Canais Abertos", Gravitas Movie
+https://gravitas-movies.sinclair.wurl.com/manifest/512.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0751e6f80779fff26fd8f4b17d82c50f.webp" group-title="Canais Abertos", RunTime
+https://stream.ads.ottera.tv/cl/d4252579-a3a9-43ca-bd2c-0e7dce0a2b3f/1920x1080_4716800_3_false.m3u8
+
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/07/tv-cine-live-vipotv-brasil.png" group-title="Canais Abertos", TvCine
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1278414806.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3CzzqKM/Bons-tempos-tv.png" group-title="Canais Abertos",  Bons Tempos Tv
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w330686251.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KW9ZwzW/Tv-carioca-Net.png" group-title="Canais Abertos", Tv Carioca NET
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1706754216.m3u8
+
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2020/11/mytv-channel-live-vipotv.png" group-title="Canais Abertos", MyTv Channel
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/chunklist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/08/TV-PANTANAL-MS-live-vipotv-brazil-Assistir.png" group-title="Cinema", TV Pantanal Ms
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/08/TV-PANTANAL-MS-live-vipotv-brazil-Assistir.png" group-title="Canais Abertos", TV Pantanal Ms
 
 https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/chunklist_w123894245.m3u8
 
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/03/ctv-live-vipotv.png" group-title="Cinema", CTV
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2021/03/ctv-live-vipotv.png" group-title="Canais Abertos", CTV
 https://5d2c98775bafe.streamlock.net/8020/8020/chunklist_w1994360671.m3u8
 
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2022/01/tv-Serra-Verde-live-vipotv-Portuguese.png" group-title="Cinema", Tv Serra Verde
-
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2022/01/tv-Serra-Verde-live-vipotv-Portuguese.png" group-title="Canais Abertos", Tv Serra Verde
 https://cdn.jmvstream.com/w/AVJ-10557/playlist/chunklist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7bzKntS/R-dio-web-tv.png" group-title="Cinema", Viva Web TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7bzKntS/R-dio-web-tv.png" group-title="Canais Abertos", Viva Web TV
 https://video02.kshost.com.br/cypriano46326/cypriano46326/chunklist_w556482873.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://images.builderservices.io/s/cdn/v1.0/i/m?url=https%3A%2F%2Fstorage.googleapis.com%2Fproduction-hostgator-brasil-v1-0-3%2F253%2F1028253%2FGDNFdn7O%2Fe42b2675cc2448d6a0b147d6de288138&methods=resize%2C500%2C5000" group-title="Cinema", Rde UTV Brasil
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GWFjn65/Utv.png" group-title="Canais Abertos", Rde UTV Brasil
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w585925552.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.radioetvsrn.d2cast.com.br/admin/assets/img/users/9632-2020-08-20.png" group-title="Music", Rádio e TV SRN PI CLIPES
-http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8?IMDSFULL
 
 
-#EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png" group-title="Music",  WOW Tv
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?IMDSFULL?JoCaRoIPTV.m3u8?IMDSFULL
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3vpWL9J/Lindomar-conex-o-Amigos-da-m-sica.png" group-title="Music",  Lindomar Dance
-https://youtube.com/playlist?list=PLTLDsYwjvba6eAbcvZvFuVsFnsa1sgvNK
 
-#EXTINF:-1 tvg-logo="https://scontent-ort2-1.xx.fbcdn.net/v/t1.6435-9/198127829_1446970785668221_4612967499011158437_n.png?stp=dst-png_p206x206&_nc_cat=107&ccb=1-5&_nc_sid=85a577&efg=eyJpIjoidCJ9&_nc_eui2=AeGVJiqXJdgWfspJFTLTiDEQ5gvVi-nFs5_mC9WL6cWzn4_ywrafMifJKvbDKqOJDZk4s5JkprkrSEgjQUZmOVB4&_nc_ohc=HNJGHmNXayEAX9U4o6c&_nc_ht=scontent-ort2-1.xx&oh=00_AT84D7m6V-nsWRF9Dr_cH8wtPxAloDPquH6fdNE6KFpk5w&oe=624AA98C" group-title="Sao Bento do Sul", TvSul Catarinense 
+#################Sports###############
 
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0Z3TpW5/Deportv.png" group-title="Sport",  Deportv
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1914947051.m3u8
+
+#EXTINF:-1 tvg-logo="https://varioscanais.com/wp-content/uploads/2021/11/Estadio-TNT-Sports-999x999.png" group-title="Sport",  TNT sports
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8?rand=0.9610580906603146
+
+#EXTINF:-1 tvg-logo="https://varioscanais.com/wp-content/uploads/2021/11/Estadio-TNT-Sports-999x999.png" group-title="Sport",  TNT sports2
 https://m.facebook.com/story.php?story_fbid=326224732674156&id=796129694085670
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://ibb.co/TkQKqfX" group-title="Gospel",  Radio Amigos da Musica Gospel
-https://youtu.be/tHNfyb_-yKs?list=PLuwNQM7VII9WfXAA6f3otcQeaJqmne9WO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/1200px-Esport3.svg.png" group-title="Sport",  esports 3
+http://directes-tv-int.ccma.cat/int/ngrp:es3_web/chunklist_b2128000.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbs.gfycat.com/DamagedForsakenJerboa-size_restricted.gif" group-title="Sport",  Formula 1
+http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg" group-title="Filme",  Formula
+https://m3u9.top/hls2/RedeCanais/RedeCanais/RCFServer5/ondemand/SNG2/SNG2.m3u8?mu3zAQc9HC3GbwJq=0Kc62000BmbquRmBTdmF5A&3U1G7qaTxrPbalZnEx=1648313654
+
+
+
+
+
+
+
