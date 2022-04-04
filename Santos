@@ -135,6 +135,9 @@ https://rr1---sn-bboxu-m52s.googlevideo.com/videoplayback?expire=1648788089&ei=G
 #EXTINF:-1 tvg-logo="https://i.giphy.com/media/82LDkXAB18QZRQQveL/giphy.webp" group-title="Noticias",  JP News HD
 http://168.205.87.198:8555/live/anselmo/123456/161.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrZCX9C/Risc-tvs.png" group-title="Canais Abertos", Risc tv
+https://stmv2.samcast.com.br/sandro9822/sandro9822/chunklist_w1956183644.m3u8
+
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="Noticias", RECORD TV
 http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-b.m3u8?IMDSFULL
 
@@ -381,8 +384,6 @@ https://bus-eu-west-1-cimzmgnuu-cdn.sa.metacdn.com/live/ngrp:lxp480_main_all_tra
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Tooncast.png/revision/latest/scale-to-width-down/250?cb=20161207193118" group-title="Kids",  Tooncast
-https://edge4-sl.cvattv.com.ar/live/c6eds/Tooncast/SA_SAGEMCOM/Tooncast-avc1_1532000=10004.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdVOawreia0dHBrs1aSt-EQN7Hg8wivdtSbQ&usqp=CAU" group-title="Kids",  Gospel Cartoon
@@ -768,13 +769,8 @@ https://youtube.com/playlist?list=PLTLDsYwjvba6eAbcvZvFuVsFnsa1sgvNK
 
 
 
-#EXTINF:-1 tvg-logo="https://thumbs.web.sapo.io/?W=800&H=800&png=1&delay_optim=1&png=1&epic=NGZjZSCZjPTcvlcUj9i1I4IWYNLatCwJyjEvPpJ0VCmi4sdJxIAolKUUC7eVjbAcUENWsIuAEsl62eNNghlvM1AWZDq5OxUB/TwWCWkpAURJSXk=" group-title="Canais Abertos",  TPA 1
-https://playback2.akamaized.net/streams/30360708_9496693_lsiemz234p9ivexhian_1/exp=1649026906~acl=%2f*~data=hdntl~hmac=aff135f634cf9d94a8079df070a8e709ab66499038aacb9ed84cc15876b08e89/media/30360708_9496693_lsiemz234p9ivexhian_1@678000pb.m3u8?dw=80&ts=1648940400
 #EXTINF:-1 tvg-logo="http://tvsaojose.com.br/img/logo.png" group-title="Canais Abertos", Tv São José
 http://177.74.174.57:8080/hls/tvsj.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wrZCX9C/Risc-tvs.png" group-title="Canais Abertos", Risc tv
-https://stmv2.samcast.com.br/sandro9822/sandro9822/chunklist_w1956183644.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KbT48sC/Tv-galega.png" group-title="Canais Abertos", Galega tv
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8?IMDSFULL
@@ -910,8 +906,7 @@ http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hssli
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg" group-title="Filme",  Formula
 https://m3u9.top/hls2/RedeCanais/RedeCanais/RCFServer5/ondemand/SNG2/SNG2.m3u8?mu3zAQc9HC3GbwJq=0Kc62000BmbquRmBTdmF5A&3U1G7qaTxrPbalZnEx=1648313654
 
-#EXTINF:-1 tvg-logo="https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABdUotSr8aeypVH2UwluKv-tvsFgjbfd_OxeSXagtcZwRZiZq8pmSehEzvcTDZ45115VusbZy9vxPZyssXZBxP4yCvnDCBECzqLew.png?r=985" group-title="Sport",  Tv Feroz
-https://live-ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/f35908c2db0b5c29540db91daef04bfa--ugratv--stream1_hq--chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.ugratv
+
 
 
 
